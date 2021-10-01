@@ -19,4 +19,7 @@
 // 📦 added packaging
 // 🤔 slider or no slider
 // 🐣 chicken or egg?
-
+// 🔭 Focusing on **topic**
+// 👯 collaborations
+// 💼 work related opportunities
+// 🌱 harvesting a product
