@@ -3,6 +3,7 @@
 //
 // 💣 bomb
 // 💄 lip stick for better style/theme
+// 🎨 improved the style/theme
 // 🚚 moved to entry app.svelte
 // 🧙‍♂️ working details confirm btn
 // ✅ always more todo / wishlist 
@@ -23,3 +24,13 @@
 // 👯 collaborations
 // 💼 work related opportunities
 // 🌱 harvesting a product
+// 🔈 Adding sound
+// ✂️ Code snippets
+// 🔧 Adding some tools
+// ✨ Demos
+// 📖 Setup and Docs
+
+
+
+
+
