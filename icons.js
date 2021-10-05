@@ -23,12 +23,66 @@
 // 🔭 Focusing on **topic**
 // 👯 collaborations
 // 💼 work related opportunities
-// 🌱 harvesting a product
+// 🌱 seedling
 // 🔈 Adding sound
 // ✂️ Code snippets
 // 🔧 Adding some tools
 // ✨ Demos
 // 📖 Setup and Docs
+// 📂 folder
+// 📙 book
+// 📃 page
+// 😃 Happy that it works
+// 😄 Funny Jokes
+// 👋 Howdy
+// 🤘 Cool
+// 👩 girl smiling
+// ‍🎤 Microphone
+// 🐸 A frog
+// 🎉 tada! Celebrate!!
+// 💋 Love it!
+// 🔥 On fire, HOT!
+// 🤯 Mind Blown
+// 🤓 nerd
+// 😮 shocked
+// 😡 rage
+// 💰 Money bag
+// ⛔ Prohibited
+// 👮 Police
+// 👃 code smells
+// 🦉 owl
+// 🌴 tropics
+// 📝 edit
+// ☎ phone
+// 💊 medicine
+// 🍗 Eat Chicken
+// 📌 pin
+// 🍜 ramen noodles
+// 🦈 shark
+// 🐑 sheep
+// 🛒 shopping cart
+// 💀 skull / death
+// ☠ Pirate
+// 😴 🛌 sleep
+// 🔈 speaker, sound
+// 🕴 a dude About Me
+// ⚒ Mining Tools
+// ⭐⭐⭐⭐⭐ 5 Stars
+// 🗣 Speaking/languages
+// 💻 Programming
+
+
+
+
+
+
+
+🎓 🗻 🎥 🎹 🎵 🔇 ❎
+
+
+
+
+
 
 
 
