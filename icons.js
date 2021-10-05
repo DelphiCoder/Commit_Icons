@@ -7,6 +7,7 @@
 // 🚚 moved to entry app.svelte
 // 🧙‍♂️ working details confirm btn
 // ✅ always more todo / wishlist 
+// ❎ Checkbox
 // 🍕 toppings updated
 // 🌟 favicon updated
 // 🌟 Init the repo
@@ -47,12 +48,12 @@
 // 😮 shocked
 // 😡 rage
 // 💰 Money bag
-// ⛔ Prohibited
+// ⛔ 🛑 🚯 Prohibited
 // 👮 Police
 // 👃 code smells
 // 🦉 owl
 // 🌴 tropics
-// 📝 edit
+// 📝 edit 
 // ☎ phone
 // 💊 medicine
 // 🍗 Eat Chicken
@@ -70,10 +71,20 @@
 // ⭐⭐⭐⭐⭐ 5 Stars
 // 🗣 Speaking/languages
 // 💻 Programming
+// 🧵 Threading support
+// 🎹 Piano Keyboard
+// 🎥 Filming
+// 🗻 At the mountain top
+// 🎵 Music Notes
+// 🎓 Education
+// 🔇 No sound
+// 💥 Explosive content
+// 🌳 Tree
 
 
 
-
+⚒ Mined a few more icons
+💥 Explosion of new icons.
 
 
 
