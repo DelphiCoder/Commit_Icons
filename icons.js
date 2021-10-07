@@ -8,6 +8,7 @@
 // 🧙‍♂️ working details confirm btn
 // ✅ always more todo / wishlist 
 // ❎ Checkbox
+// ❌ denied
 // 🍕 toppings updated
 // 🌟 favicon updated
 // 🌟 Init the repo
@@ -20,6 +21,7 @@
 // 🔀 onDragend / Routes
 // 📦 added packaging
 // 🤔 slider or no slider
+// 🧐 Monocule
 // 🐣 chicken or egg?
 // 🔭 Focusing on **topic**
 // 👯 collaborations
@@ -80,6 +82,19 @@
 // 🔇 No sound
 // 💥 Explosive content
 // 🌳 Tree
+// ⚛️ React
+// 💚 green love
+// 🎯 SEO friendly
+// 🔍 Search
+// 💾 Document Versioning
+// 🌍 international
+// ⚡️ Lightning fast
+// 🦖 Dinos
+// ⏱️ timer
+
+
+
+
 
 
 
