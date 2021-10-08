@@ -78,7 +78,7 @@
 // 🎥 Filming
 // 🗻 At the mountain top
 // 🎵 Music Notes
-// 🎓 Education
+// 🎓 Education / Learning
 // 🔇 No sound
 // 💥 Explosive content
 // 🌳 Tree
@@ -91,7 +91,7 @@
 // ⚡️ Lightning fast
 // 🦖 Dinos
 // ⏱️ timer
-
+// 🐞 Fixed a bug
 
 
 
