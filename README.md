@@ -4,9 +4,9 @@ These are just some handy icons that I find useful to attach to Git commit messa
 
 ## 💡 Example Use 💭
 
-$ git commit -m "🌟 First commit!"
-$ git commit -m "💖 Added my favorite feature"
-$ git commit -m "💥 Explosion of new content"
+$ git commit -m "🌟 First commit!" <br>
+$ git commit -m "💖 Added my favorite feature" <br>
+$ git commit -m "💥 Explosion of new content" <br>
 
 ## Personal Message
 
