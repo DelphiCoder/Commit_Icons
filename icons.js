@@ -1,14 +1,21 @@
 //
 //  These are some useful icons to use in Git Commit messages:
 //
-// 💣 bomb
+//  Most icons have a description or example text.
+//  So just do a search for what you want.
+//
+//  Two examples
+//  git commit -m "⚒ Mined a few more icons"
+//  git commit -m "💥 Explosion of new icons"
+//
+// 💣 bomb, danger, buggy
 // 💄 lip stick for better style/theme
 // 🎨 improved the style/theme
 // 🚚 moved to entry app.svelte
 // 🧙‍♂️ working details confirm btn
 // ✅ always more todo / wishlist 
-// ❎ Checkbox
-// ❌ denied
+// ❎ Checkbox, okay, permitted, granted
+// ❌ denied, forbidden, prohibited, locked access
 // 🍕 toppings updated
 // 🌟 favicon updated
 // 🌟 Init the repo
@@ -27,30 +34,30 @@
 // 👯 collaborations
 // 💼 work related opportunities
 // 🌱 seedling
-// 🔈 Adding sound
+// 🔈 Adding sound, speakers
 // ✂️ Code snippets
 // 🔧 Adding some tools
-// ✨ Demos
+// ✨ Demos, example content
 // 📖 Setup and Docs
 // 📂 folder
 // 📙 book
 // 📃 page
 // 😃 Happy that it works
 // 😄 Funny Jokes
-// 👋 Howdy
-// 🤘 Cool
+// 👋 Howdy, Hi, Hello
+// 🤘 Cool, awesome
 // 👩 girl smiling
-// ‍🎤 Microphone
+// ‍🎤 Microphone, speech, speaking, record sound
 // 🐸 A frog
-// 🎉 tada! Celebrate!!
+// 🎉 tada! Celebrate!! success
 // 💋 Love it!
 // 🔥 On fire, HOT!
 // 🤯 Mind Blown
 // 🤓 nerd
 // 😮 shocked
-// 😡 rage
+// 😡 rage, angry, pissed off
 // 💰 Money bag
-// ⛔ 🛑 🚯 Prohibited
+// ⛔ 🛑 🚯 Prohibited, forbidden, locked, danger
 // 👮 Police
 // 👃 code smells
 // 🦉 owl
@@ -59,7 +66,7 @@
 // ☎ phone
 // 💊 medicine
 // 🍗 Eat Chicken
-// 📌 pin
+// 📌 pin, pinned
 // 🍜 ramen noodles
 // 🦈 shark
 // 🐑 sheep
@@ -69,7 +76,7 @@
 // 😴 🛌 sleep
 // 🔈 speaker, sound
 // 🕴 a dude About Me
-// ⚒ Mining Tools
+// ⚒ Mining Tools, Mined more content
 // ⭐⭐⭐⭐⭐ 5 Stars
 // 🗣 Speaking/languages
 // 💻 Programming
@@ -80,7 +87,7 @@
 // 🎵 Music Notes
 // 🎓 Education / Learning
 // 🔇 No sound
-// 💥 Explosive content
+// 💥 Explosive content, explosion of new features
 // 🌳 Tree
 // ⚛️ React
 // 💚 green love
@@ -88,22 +95,14 @@
 // 🔍 Search
 // 💾 Document Versioning
 // 🌍 international
-// ⚡️ Lightning fast
-// 🦖 Dinos
+// ⚡️ Lightning fast, speedy
+// 🦖 Dinos, old version, archive
 // ⏱️ timer
 // 🐞 Fixed a bug
 
 
-
-
-
-
-⚒ Mined a few more icons
-💥 Explosion of new icons.
-
-
-
-🎓 🗻 🎥 🎹 🎵 🔇 ❎
+// ToDo: Need to add to the list with some descriptions:
+// 🎓 🗻 🎥 🎹 🎵 🔇 ❎
 
 
 
