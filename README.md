@@ -1,5 +1,5 @@
 # Git Commit Icons
 
-These are just some handy icons I have come across from time to time to give some graphic impact to my commit messages.
+These are just some handy icons that I find useful to attach to Git commit messages that can add some graphic impact.
 
 -Doug
