@@ -9,6 +9,7 @@
 //  git commit -m "💥 Explosion of new icons"
 //
 // 💣 bomb, danger, buggy
+// ✍️ Update <filename>, Edited <filename>, Wrote a blog post
 // 💄 lip stick for better style/theme
 // 🎨 improved the style/theme
 // 🚚 moved to entry app.svelte
