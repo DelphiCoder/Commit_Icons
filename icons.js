@@ -63,7 +63,7 @@
 // 👃 code smells
 // 🦉 owl
 // 🌴 tropics
-// 📝 edit 
+// 📝 edit, editor, writer, editing 
 // ☎ phone
 // 💊 medicine
 // 🍗 Eat Chicken
