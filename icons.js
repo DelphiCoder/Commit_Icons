@@ -22,6 +22,15 @@
 // 🌟 Init the repo
 // 🅱 Changed the branding
 // 🤑 added price
+// 💾 Save file, floppy disc
+// 💽 Disc, save file, download to disc, write to disc
+// 🛟 Life perserver, Help, Guidence, save, safety
+// 🆘 Call for help, SOS, Guidence
+// ⛑️ Safety Hat, helmet
+// 📩 Get eMail, Save eMail
+// 💸 Money lost, Money Spent, Spending
+// 💵 Money, Currency, Dollar Bills
+// 💲 Money Symbol, Currency
 // 🐱‍👤 scrollTo hide mobile address bar
 // 📱 better for mobile experience
 // 🧹 entry point, and style cleanup
